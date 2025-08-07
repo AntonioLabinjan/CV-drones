@@ -51,6 +51,7 @@ export default {
     return {
       selectedIdea: null,
       ideas: [
+        {title: "Brojne druge implementacije event based visiona}, 
         {
   title: "Detekcija požara iz zraka",
   category: "Ekologija / Spašavanje",
